@@ -19,13 +19,6 @@
   font-size: 55px;
   color: gray;
 }
-.modal-modal {
- 
-          width: 600px;
- 
-          height:360px !important;
- 
-        }
 
 .min-modal .modal-dialog, .min .modal-content{
 height: 100%;
