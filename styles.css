@@ -20,13 +20,6 @@
   color: gray;
 }
 
-.modal-dialog {
- 
-          width: 2000px;
- 
-          height:400px !important;
- 
-        }
  
 .modal-content {
  
@@ -50,7 +43,6 @@
  
 .modal-header {
  
-    background-color: #337AB7;
  
     padding:16px 16px;
  
