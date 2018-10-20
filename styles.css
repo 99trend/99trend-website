@@ -19,3 +19,33 @@
   font-size: 55px;
   color: gray;
 }
+
+.modal-dialog {
+ 
+          width: 1000px;
+ 
+          height:600px !important;
+ 
+        }
+ 
+.modal-content {
+ 
+    /* 80% of window height */
+ 
+    height: 90%;
+ 
+    background-color:#BBD6EC;
+ 
+}       
+ 
+.modal-header {
+ 
+    background-color: #337AB7;
+ 
+    padding:16px 16px;
+ 
+    color:#FFF;
+ 
+    border-bottom:2px dashed #337AB7;
+ 
+ }
