@@ -23,5 +23,6 @@
 }
 
 .carousel-indicators {
+  background: black;
   color: black;
 }
