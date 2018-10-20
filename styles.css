@@ -22,13 +22,23 @@
 
 .modal-dialog {
  
-          width: 1000px;
+          width: 2000px;
  
           height:400px !important;
  
         }
  
 .modal-content {
+ 
+    /* 80% of window height */
+ 
+    height: 100%;
+    width: 100%;
+ 
+ 
+}       
+
+.modal-body {
  
     /* 80% of window height */
  
