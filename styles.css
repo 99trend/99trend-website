@@ -33,9 +33,8 @@
     /* 80% of window height */
  
     height: 100%;
-    width: 100%
+    width: 100%;
  
-    background-color:#BBD6EC;
  
 }       
  
@@ -46,8 +45,6 @@
     padding:16px 16px;
  
     color:#FFF;
- 
-    border-bottom:2px dashed #337AB7;
  
  }
 
