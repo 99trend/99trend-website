@@ -19,7 +19,13 @@
   font-size: 55px;
   color: gray;
 }
-
+.modal-dialog {
+ 
+          width: 600px;
+ 
+          height:600px !important;
+ 
+        }
  
 .modal-content {
  
