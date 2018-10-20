@@ -32,7 +32,8 @@
  
     /* 80% of window height */
  
-    height: 90%;
+    height: 100%;
+    width: 100%
  
     background-color:#BBD6EC;
  
@@ -49,3 +50,4 @@
     border-bottom:2px dashed #337AB7;
  
  }
+
